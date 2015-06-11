@@ -1,0 +1,18 @@
+//schedule.cpp
+//May 27, 2015
+//Michelle Levine
+//This program displays the following schedule.
+
+//pre-processor directives
+#include<iostream>
+#include<iomanip>
+using namespace std;
+
+//define the main function
+int main()
+{
+	//Display area
+	cout<<fixed<<showpoint<<setprecision(2);
+	cout<<"\nMy Schedule:\t"<<area<<" sq. cm"<<endl;
+	return 0;
+}

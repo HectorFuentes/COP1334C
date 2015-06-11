@@ -1,0 +1,22 @@
+//schedule.cpp
+//May 27, 2015
+//Hector Fuentes
+//This program displays the following schedule.
+
+//pre-processor directives
+#include<iostream>
+#include<iomanip>
+using namespace std;
+
+//define the main function
+int main()
+{
+	//Intro
+	cout<<"My Schedule\n\n";
+
+	cout<<"Monday:\n";
+	cout<<"10:30am - 12:15pm\t"<<"Intro to C++\n"
+	
+
+	return 0;
+}

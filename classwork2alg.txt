@@ -1,0 +1,32 @@
+Tatiana Smidi
+Hector Fuentes
+May 27. 2015
+Classwork 2
+
+This program reads and displays data from a text file.
+
+Declare/intialize variables
+String make1, make2, make3, model1, model2,model3
+int year1, year2,year3
+
+Declare File Pointer
+
+Intro
+Welcome to the Car Info Collector!
+
+Open the file cars.txt
+
+Check if File exists
+
+read in data line by line
+Close the file
+Display Results
+
+Prompt user for year3, make3 and model3 of car
+
+Write raw data to the file
+
+Open cars.txt
+Append the data
+close file
+	

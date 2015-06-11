@@ -1,0 +1,28 @@
+Pizza Algorithm
+May 20, 2015
+Michelle Levine
+
+Declare and initialize variables and constants
+float radius, pizzaCost, pizzaArea, sliceCost, sliceArea
+int numSlices
+
+const float PI = 3.14
+
+Intro
+
+Prompt for radius
+
+Prompt for pizzaCost
+
+Prompt for numSlices
+
+Calculate pizzaArea
+pizzaArea = PI * radius * radius
+
+Calculate sliceArea
+sliceArea = pizzaArea / numSlices
+
+Calculate sliceCost
+sliceCost = pizzaCost / numSlices
+
+Display sliceArea and sliceCost

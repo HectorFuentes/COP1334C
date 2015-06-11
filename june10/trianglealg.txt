@@ -1,0 +1,17 @@
+Triangle Algorithm
+Michelle Levine
+May 20, 2015
+
+Declare and initialize variables
+float base, height, area
+
+Intro
+
+Prompt for base
+
+Prompt for height
+
+Calculate area
+area = .5 * base * height
+
+Display area

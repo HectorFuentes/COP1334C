@@ -1,0 +1,30 @@
+Hector Fuentes
+6/3/2015
+taxalg.txt
+This program prompts for tha actural value of a piece property.Then it displays the assessment value and property tax.
+
+pre-processor directives
+
+
+define the main function
+
+
+Declare and initialize variables
+actValue = 0.0 assValue = 0.0 proTax = 0.0
+asstax = .60 tax = .0064
+
+
+Intro
+
+WELCOME TO THE PROPERTY TAX ASSESSMENT PROGRAM!!
+
+Prompt for actual value
+
+
+
+
+Calculate 
+
+
+
+Display

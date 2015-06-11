@@ -1,0 +1,57 @@
+Hector Fuentes 
+June 6 2015
+caloriesalg.txt
+ 
+display menu 
+
+do
+{
+Show menu for Activity Level:
+1) Moderately Active
+2) Low Activity level
+
+prompt for Activity Level
+input validation
+if (activityLevel < 1 or activityLevel > 2)
+	display invalid
+}
+while (activityLevel < 1 or activityLevel > 2)
+do
+{
+Show menu for Gender
+1) Male
+2) Female
+
+prompt for gender
+input validation
+if (gender < 1 or gender > 2)
+	display invalid
+}
+while (gender < 1 or gender > 2)
+
+
+if structure to calculate rate
+if (activityLevel == 1)
+    {
+    if (gender == 1)
+	{
+	 	calories = 15 
+	}
+    else
+    	{
+	  	calories = 12 
+	}
+    }
+else
+{
+    if (activityLevel == 2 and gender == 1)
+	{
+	 	 calories = 13
+	}
+    else
+    	{
+	  	 calories = 10
+	}
+}
+
+Display caloies
